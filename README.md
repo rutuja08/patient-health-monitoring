@@ -1,4 +1,4 @@
-# hospital-patient-simulation
+# patient-health-monitoring
 This repo shows a proof-of-concept architecture for simulating hospital ER patient data ETL and visualization at scale in near-real-time using AWS services and custom code.
 
 The code in this repo represent a Python app for custom data simulation, and a Lambda function for data enrichment (i.e. determining if patient metrics are in healthy ranges or not, and updating the dataset). Here is an example of what the raw data looks like before upload and enrichment. 
