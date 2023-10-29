@@ -16,8 +16,8 @@ logger.info("This is an info log")
 
 # Database configuration
 DB_NAME = "health_records"
-DB_USER = "postgres"
-DB_PASSWORD = "root"
+DB_USER = ""
+DB_PASSWORD = ""
 DB_HOST = "localhost"
 DB_PORT = "5432"
 
